@@ -1,5 +1,4 @@
 # dirty-bowls
-Classification of dirty and cleaned bowls
 
 Ноутбук с описанием решения называется bowls.ipynb
 
